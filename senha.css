@@ -72,6 +72,9 @@ margin: 0;
     align-content: center;
     
 }
+#voltar{
+    font-size: 20px;
+}
 #ibotao{
     background-color: white;
     font-family: 'Zrnic', sans-serif;
